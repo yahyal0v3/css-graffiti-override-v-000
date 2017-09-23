@@ -7,14 +7,14 @@ body #wall #tag-2 {
   display:none;
 }
 
-body div#wall #tag-3.slick.wicked {
+body #wall #tag-3.slick.wicked {
   display:none;
 }
 
-body div#wall div.parent div#tag-4 {
+body #wall .parent #tag-4 {
     display:none;
 }
 
-body div#wall div.parent div#tag-5.slick {
+body wall parent tag-5.slick {
   display:none;
 }
